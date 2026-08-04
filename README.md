@@ -1,14 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Juan</h1>
+<h1 align="center">Hi there 👋, I'm Sebastian</h1>
 
-When Windows broke on my machine, I installed Linux and joined many communities around it. Seeing members coding motivated me to learn coding myself (mostly backend work like Go and Python). In my time with linux, i have used Ubuntu, Mint, Fedora and my most liked NixOS. I now use Windows alongside Nixos, but i'll always remember what it and it's community taught me.
+When Windows broke on my machine, I installed Linux and joined many communities around it. Seeing members coding motivated me to learn coding myself (mostly backend work with Python). In my time with linux, i have used Ubuntu, Mint, Fedora and my most liked NixOS. I now use Windows alongside Nixos, but i'll always remember what it and it's community taught me.
 
 ## About Me
 
-💽 **What i use** : I've been using Linux alongside Windows for about 2 years
+💽 **What i use** : I've been using Linux alongside Windows for about 4 years
 
 🖥️ **What I'm learning** : I'm learning React native at the moment
 
-🌎 **Where I live:** : I am a Colombian immigrant now residing in Gatineau, Canada for 13 years
+🌎 **Where I live:** : I am a Colombian immigrant now residing in Gatineau, Canada for 14 years
 
 💻 **What I do:** : I edit videos, produce music and code
 
@@ -20,8 +20,4 @@ When Windows broke on my machine, I installed Linux and joined many communities 
 ## The End
 
 That's pretty much it! Thanks for taking the time to learn more about me! Feel free to connect and say hello!
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rojjuan&show_icons=true&locale=en" alt="theonekingboo" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rojjuan&show_icons=true&locale=en&layout=compact" alt="theonekingboo" /></p>
 
